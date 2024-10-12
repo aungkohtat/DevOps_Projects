@@ -1,0 +1,23 @@
+{
+  "name": "devops_projects",
+  "version": "1.0.0",
+  "description": "- This project demonstrates how to create and deploy a containerized web application using Docker. ## Project Overview - In this project, we'll build a simple web application using Node.js and Express, containerize it using Docker, and prepare it for deployment on a cloud platform.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aungkohtat/DevOps_Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aungkohtat/DevOps_Projects/issues"
+  },
+  "homepage": "https://github.com/aungkohtat/DevOps_Projects#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
