@@ -47,7 +47,7 @@ docker run -p 3000:3000 my-web-app
 ## Key Skills 
 - Docker and containerization
 - Node.js and Express.js
-- Cloud deployment (AWS ECS)
+- Cloud deployment (AWS ECS) # I already used dockerhub
 
 ## Read My Blog Posts
 [Read my blog posts](https://medium.com/@alexiscloud/building-and-deploying-a-dockerized-web-application-d8e251ef8d62)
